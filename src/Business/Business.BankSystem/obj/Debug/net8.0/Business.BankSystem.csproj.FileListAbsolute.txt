@@ -1,0 +1,15 @@
+C:\CSharp\WebASP\BankSystem\src\Business\Business.BankSystem\bin\Debug\net8.0\Business.BankSystem.deps.json
+C:\CSharp\WebASP\BankSystem\src\Business\Business.BankSystem\bin\Debug\net8.0\Business.BankSystem.dll
+C:\CSharp\WebASP\BankSystem\src\Business\Business.BankSystem\bin\Debug\net8.0\Business.BankSystem.pdb
+C:\CSharp\WebASP\BankSystem\src\Business\Business.BankSystem\bin\Debug\net8.0\Data.BankSystem.SQL.dll
+C:\CSharp\WebASP\BankSystem\src\Business\Business.BankSystem\bin\Debug\net8.0\Data.BankSystem.SQL.pdb
+C:\CSharp\WebASP\BankSystem\src\Business\Business.BankSystem\obj\Debug\net8.0\Business.BankSystem.csproj.AssemblyReference.cache
+C:\CSharp\WebASP\BankSystem\src\Business\Business.BankSystem\obj\Debug\net8.0\Business.BankSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\WebASP\BankSystem\src\Business\Business.BankSystem\obj\Debug\net8.0\Business.BankSystem.AssemblyInfoInputs.cache
+C:\CSharp\WebASP\BankSystem\src\Business\Business.BankSystem\obj\Debug\net8.0\Business.BankSystem.AssemblyInfo.cs
+C:\CSharp\WebASP\BankSystem\src\Business\Business.BankSystem\obj\Debug\net8.0\Business.BankSystem.csproj.CoreCompileInputs.cache
+C:\CSharp\WebASP\BankSystem\src\Business\Business.BankSystem\obj\Debug\net8.0\Business.9C517A1A.Up2Date
+C:\CSharp\WebASP\BankSystem\src\Business\Business.BankSystem\obj\Debug\net8.0\Business.BankSystem.dll
+C:\CSharp\WebASP\BankSystem\src\Business\Business.BankSystem\obj\Debug\net8.0\refint\Business.BankSystem.dll
+C:\CSharp\WebASP\BankSystem\src\Business\Business.BankSystem\obj\Debug\net8.0\Business.BankSystem.pdb
+C:\CSharp\WebASP\BankSystem\src\Business\Business.BankSystem\obj\Debug\net8.0\ref\Business.BankSystem.dll

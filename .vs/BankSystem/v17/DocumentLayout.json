@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CSharp\\WebASP\\BankSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9EE301-2C9F-453A-9EB6-B4187133EEF8}|src\\Data\\Data.BankSystem.SQL\\Data.BankSystem.SQL.csproj|c:\\csharp\\webasp\\banksystem\\src\\data\\data.banksystem.sql\\models\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9EE301-2C9F-453A-9EB6-B4187133EEF8}|src\\Data\\Data.BankSystem.SQL\\Data.BankSystem.SQL.csproj|solutionrelative:src\\data\\data.banksystem.sql\\models\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9EE301-2C9F-453A-9EB6-B4187133EEF8}|src\\Data\\Data.BankSystem.SQL\\Data.BankSystem.SQL.csproj|c:\\csharp\\webasp\\banksystem\\src\\data\\data.banksystem.sql\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9EE301-2C9F-453A-9EB6-B4187133EEF8}|src\\Data\\Data.BankSystem.SQL\\Data.BankSystem.SQL.csproj|solutionrelative:src\\data\\data.banksystem.sql\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9EE301-2C9F-453A-9EB6-B4187133EEF8}|src\\Data\\Data.BankSystem.SQL\\Data.BankSystem.SQL.csproj|c:\\csharp\\webasp\\banksystem\\src\\data\\data.banksystem.sql\\data.banksystem.sql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA9EE301-2C9F-453A-9EB6-B4187133EEF8}|src\\Data\\Data.BankSystem.SQL\\Data.BankSystem.SQL.csproj|solutionrelative:src\\data\\data.banksystem.sql\\data.banksystem.sql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\CSharp\\WebASP\\BankSystem\\src\\Data\\Data.BankSystem.SQL\\Models\\Operation.cs",
+              "RelativeDocumentMoniker": "src\\Data\\Data.BankSystem.SQL\\Models\\Operation.cs",
+              "ToolTip": "C:\\CSharp\\WebASP\\BankSystem\\src\\Data\\Data.BankSystem.SQL\\Models\\Operation.cs",
+              "RelativeToolTip": "src\\Data\\Data.BankSystem.SQL\\Models\\Operation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T14:33:07.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\CSharp\\WebASP\\BankSystem\\src\\Data\\Data.BankSystem.SQL\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "src\\Data\\Data.BankSystem.SQL\\Models\\Account.cs",
+              "ToolTip": "C:\\CSharp\\WebASP\\BankSystem\\src\\Data\\Data.BankSystem.SQL\\Models\\Account.cs",
+              "RelativeToolTip": "src\\Data\\Data.BankSystem.SQL\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T14:32:07.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.BankSystem.SQL",
+              "DocumentMoniker": "C:\\CSharp\\WebASP\\BankSystem\\src\\Data\\Data.BankSystem.SQL\\Data.BankSystem.SQL.csproj",
+              "RelativeDocumentMoniker": "src\\Data\\Data.BankSystem.SQL\\Data.BankSystem.SQL.csproj",
+              "ToolTip": "C:\\CSharp\\WebASP\\BankSystem\\src\\Data\\Data.BankSystem.SQL\\Data.BankSystem.SQL.csproj",
+              "RelativeToolTip": "src\\Data\\Data.BankSystem.SQL\\Data.BankSystem.SQL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-23T14:31:49.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
